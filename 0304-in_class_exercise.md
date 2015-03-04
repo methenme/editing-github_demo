@@ -1,3 +1,5 @@
+Maeve Metheny
+
 ## Modifiers: Limiting Words:
 
 1. Lasers only destroy the target, leaving the surrounding healthy tissue intact.
@@ -23,4 +25,4 @@
 3. Deciding to join the navy, the recruiter enthusiastically shook Joe's hand.
 4. Upon entering the doctor's office, a skeleton caught my attention.
 5. To please the children, some fireworks were set off a day early.
-6. Though only sixteen, UCLA accepted Martha's application.
+6. Though only sixteen, UCLA accepted Martha's application. 
